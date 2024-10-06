@@ -1,0 +1,9 @@
+citadel_crosshair_color_r 49
+citadel_crosshair_dot_opacity 0.000000
+citadel_crosshair_dot_outline_opacity 0.000000
+citadel_crosshair_hit_marker_duration 0.000000
+citadel_crosshair_pip_border false
+citadel_crosshair_pip_gap -3
+citadel_crosshair_pip_height 4.000000
+citadel_crosshair_pip_opacity 1.000000
+citadel_crosshair_pip_width 2.000000

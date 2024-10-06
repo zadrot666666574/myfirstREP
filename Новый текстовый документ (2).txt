@@ -7,3 +7,5 @@ citadel_crosshair_pip_gap -3
 citadel_crosshair_pip_height 4.000000
 citadel_crosshair_pip_opacity 1.000000
 citadel_crosshair_pip_width 2.000000
+
+Вот и поменял файл
